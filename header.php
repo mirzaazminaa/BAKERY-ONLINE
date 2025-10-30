@@ -9,7 +9,7 @@ if(isset($_SESSION['kd_cs'])){
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mirza-Cake Backery</title>
+	<title>BakeryNesa</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
@@ -28,12 +28,12 @@ if(isset($_SESSION['kd_cs'])){
 
 
 				<div class="col-md-4"  style="padding: 3px;">
-					<span><i class="glyphicon glyphicon-envelope"></i> mirzaazzamina@gmail.com</span>
+					<span><i class="glyphicon glyphicon-envelope"></i> kelompok2@gmail.com</span>
 				</div>
 
 
 				<div class="col-md-4"  style="padding: 3px;">
-					<span>mirza-cake bakery Indonesia</span>
+					<span>BakeryNesa Indonesia</span>
 				</div>
 			</center>
 		</div>
@@ -49,7 +49,7 @@ if(isset($_SESSION['kd_cs'])){
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#" style="color: #ff8680"><b>MIRZA-CAKE BAKERY</b></a>
+				<a class="navbar-brand" href="#" style="color: #ff8680"><b>BakeryNesa</b></a>
 			</div>
 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

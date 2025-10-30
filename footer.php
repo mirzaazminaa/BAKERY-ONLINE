@@ -3,10 +3,10 @@
 		<div class="container" style="padding-bottom: 50px;">
 			<div class="row">
 				<div class="col-md-4">
-					<h3 style="color: #ff8680"><b>MIRZA-CAKE BAKERY</b></h3>
-					<p>Jl. Danau Towuti G5A 12 Sawojajar</p>
+					<h3 style="color: #ff8680"><b>BakeryNesa</b></h3>
+					<p>Jl. Maospati</p>
 					<p><i class="glyphicon glyphicon-earphone"></i> +6282139669041</p>
-					<p><i class="glyphicon glyphicon-envelope"></i> mirzaazzamina@gmail.com</p>
+					<p><i class="glyphicon glyphicon-envelope"></i> Kelompok2@gmail.com</p>
 				</div>
 				<div class="col-md-4">
 					<h5><b>Menu</b></h5>
@@ -23,7 +23,7 @@
 		</div>
 
 		<div class="copy" style="background-color: #ff8680; padding: 5px; color: #fff; text-align: center;">
-			<span>Copyright&copy; Mirza Azmina</span>
+			<span>Copyright&copy; Kelompok 2</span>
 		</div>
 	</footer>
 

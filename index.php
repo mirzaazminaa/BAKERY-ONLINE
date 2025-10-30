@@ -15,7 +15,7 @@ include 'header.php';
 
 
 		<h4 class="text-center" style="font-family: arial; padding-top: 10px; padding-bottom: 10px; font-style: italic; line-height: 29px; border-top: 2px solid #ff8d87; border-bottom: 2px solid #ff8d87;">
-			MIRZA Cake & Bakery  adalah salah satu pelopor pertama dalam bisnis roti modern di Indonesia. Didirikan pada tahun 2005, saat ini dikelola di bawah PT. Sektema. Produk kami sehat, bergizi, dan terjangkau oleh semua orang.
+			BakeryNesa adalah salah satu pelopor pertama dalam bisnis roti modern di Indonesia. Didirikan pada tahun 2025, saat ini dikelola di bawah PT. Kelompok 2. Produk kami sehat, bergizi, dan terjangkau oleh semua orang.
 		</h4>
 
 
